@@ -170,6 +170,11 @@
     <option name="KEYWORD_SUBSTITUTION_WRAPPERS" value="" />
     <option name="MAKE_NEW_FILES_READ_ONLY" value="false" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="5.10.1" last-modified="1460105041000" />
+    </local-interpreter>
+  </component>
   <component name="PersistenceGenerationSettings">
     <option name="addToUnit" value="true" />
     <option name="ADD_TO_UNIT" value="true" />
