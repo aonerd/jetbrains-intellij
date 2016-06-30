@@ -16,6 +16,10 @@
       <action id="OptimizeImports" />
       <action id="SaveAll" />
     </macro>
+    <macro name="Complete and take new line">
+      <action id="EditorCompleteStatement" />
+      <action id="EditorStartNewLine" />
+    </macro>
   </component>
   <component name="com.intellij.ide.actionMacro.ActionMacroManager">
     <macro name="Save-reformat-rearrange-opt_imports">
