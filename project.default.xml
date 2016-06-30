@@ -1,0 +1,241 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <option name="DEFAULT_COMPILER" />
+        <resourceExtensions />
+        <wildcardResourcePatterns>
+          <entry name="!?*.java" />
+          <entry name="!?*.form" />
+          <entry name="!?*.class" />
+          <entry name="!?*.groovy" />
+          <entry name="!?*.scala" />
+          <entry name="!?*.flex" />
+          <entry name="!?*.kt" />
+          <entry name="!?*.clj" />
+        </wildcardResourcePatterns>
+        <annotationProcessing>
+          <profile default="true" name="Default" enabled="false">
+            <processorPath useClasspath="true" />
+          </profile>
+        </annotationProcessing>
+      </component>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/0.8/balance-alerts-business-event-processor" value="4367392113000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/0.8/notification-hub" value="24727865689000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/0.9/grace-period-business-event-processor" value="4364908768000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code" value="14454899604000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/account-opening-services" value="4330697166000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/account-services" value="4366903725000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/alert-management-services" value="4357826598000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/auth-services" value="5775522992000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/balance-alerts-business-event-processor" value="4350524628000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/beneficiary-services" value="5790719824000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/budget-services" value="5791429928000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/business-event-processor-libraries" value="4322318106000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/cas-case-services" value="4321280073000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/case-services" value="4321280043000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/common-database" value="14488832110000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/common-database/common-nag-pots-db" value="26249351634000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/common-database/notification-dao" value="14536327583000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/csap-case-services" value="4329820176000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/customer-history-business-event-processor" value="4348503768000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/customer-services" value="4329531525000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/datapower" value="1441386923000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/development-tools/soap-jms-stub" value="5790724640000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/endpoint-tester" value="1448879822000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/esb-libraries" value="23162901632000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/event-libraries" value="26058264228000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/event-services" value="5793842240000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/fraud-business-event-processor" value="4344069996000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/gateway-build-libraries" value="14418083504000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/gateway-libraries" value="27691636108000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/grace-period-business-event-processor" value="4360208100000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/jira-services" value="1456327588000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/mandate-services" value="5791439212000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/nba-business-event-processor" value="4373845389000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/notification-hub" value="24751814968000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/payment-services" value="5793500963000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/payment-services-master" value="5793170784000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/pot-business-event-processor" value="4343005491000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/pot-services" value="5790674140000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/tag-management-services" value="4347422886000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/tds-to-searchengine-sync/tds-to-searchengine-sync" value="1452510210000" />
+            <entry key="$USER_HOME$/Documents/Development/NAG/actual/code/user-services" value="5767215658000" />
+            <entry key="$USER_HOME$/Documents/Development/hsbc/source" value="14437590960000" />
+            <entry key="$USER_HOME$/Documents/Development/hsbc/temp-service" value="1444210192000" />
+            <entry key="$USER_HOME$/Documents/Development/kb/playground/apiMan/source/helloService" value="1460981689000" />
+            <entry key="$USER_HOME$/Documents/Development/kb/source/goldenRhinoBackend" value="10248946642000" />
+            <entry key="$USER_HOME$/Documents/Development/kb/source/ios-frontend/examples/rhino-spike" value="8766477174000" />
+            <entry key="$USER_HOME$/Documents/Development/playground/jhipster" value="2923398318000" />
+            <entry key="$USER_HOME$/Documents/Development/playground/spring/resteasy" value="1466082363000" />
+            <entry key="$USER_HOME$/Documents/Development/source/via-gradle/via" value="51705436788000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="Bundled (Maven 2)" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="0" id="Add" />
+        <ConfirmationsSetting value="0" id="Remove" />
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
+      <component name="PropertiesComponent">
+        <property name="GoToClass.includeLibraries" value="false" />
+        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+        <property name="GoToFile.includeJavaFiles" value="false" />
+        <property name="MemberChooser.sorted" value="false" />
+        <property name="MemberChooser.showClasses" value="true" />
+        <property name="MemberChooser.copyJavadoc" value="false" />
+        <property name="settings.editor.selected.configurable" value="database.main" />
+        <property name="settings.editor.splitter.proportion" value="0.2" />
+      </component>
+      <component name="RunManager">
+        <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+          <module name="" />
+          <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+          <option name="PROGRAM_PARAMETERS" />
+          <method />
+        </configuration>
+        <configuration default="true" type="Applet" factoryName="Applet">
+          <option name="WIDTH" value="400" />
+          <option name="HEIGHT" value="300" />
+          <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+          <module />
+          <method />
+        </configuration>
+        <configuration default="true" type="Application" factoryName="Application">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" />
+          <option name="PROGRAM_PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="ENABLE_SWING_INSPECTOR" value="false" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <module name="" />
+          <envs />
+          <method />
+        </configuration>
+        <configuration default="true" type="JUnit" factoryName="JUnit">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="TEST_OBJECT" value="class" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <envs />
+          <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
+          <method />
+        </configuration>
+        <configuration default="true" type="TestNG" factoryName="TestNG">
+          <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+          <module name="" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+          <option name="ALTERNATIVE_JRE_PATH" />
+          <option name="SUITE_NAME" />
+          <option name="PACKAGE_NAME" />
+          <option name="MAIN_CLASS_NAME" />
+          <option name="METHOD_NAME" />
+          <option name="GROUP_NAME" />
+          <option name="TEST_OBJECT" value="CLASS" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+          <option name="OUTPUT_DIRECTORY" />
+          <option name="ANNOTATION_TYPE" />
+          <option name="ENV_VARIABLES" />
+          <option name="PASS_PARENT_ENVS" value="true" />
+          <option name="TEST_SEARCH_SCOPE">
+            <value defaultName="moduleWithDependencies" />
+          </option>
+          <option name="USE_DEFAULT_REPORTERS" value="false" />
+          <option name="PROPERTIES_FILE" />
+          <envs />
+          <properties />
+          <listeners />
+          <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+          <Host>localhost</Host>
+          <Port>5050</Port>
+        </configuration>
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="modificationStamps">
+          <map>
+            <entry key="$USER_HOME$/Documents/Development/blackJack/activator/Examples/play-example-form" value="1438870255000" />
+            <entry key="$USER_HOME$/Documents/Development/blackJack/activator/my-first-app" value="1438878062000" />
+            <entry key="$USER_HOME$/Documents/Development/blackJack/source/kickoff/dcj-admin/admin" value="1438939060000" />
+            <entry key="$USER_HOME$/Documents/Development/blackJack/source/kickoff/dcj-operations/operations" value="2877878208000" />
+            <entry key="$USER_HOME$/Documents/Development/blackJack/source/kickoff/homeoffice-cjp/customer" value="1438938861000" />
+          </map>
+        </option>
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" value="/usr/local/bin/sbt" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.7</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.19889502" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
