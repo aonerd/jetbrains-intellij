@@ -172,7 +172,7 @@
   </component>
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="5.10.1" last-modified="1460105041000" />
+      <version-cache version="6.2.2" last-modified="1467628061000" />
     </local-interpreter>
   </component>
   <component name="PersistenceGenerationSettings">
