@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CopyElement" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
   <action id="EditorSelectWord">
@@ -21,6 +22,9 @@
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="SavaAs" />
   <action id="SwitchApply">
