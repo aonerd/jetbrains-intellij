@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CopyElement" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
   <action id="EditorSelectWord">
@@ -10,6 +11,10 @@
   </action>
   <action id="EditorUnSelectWord" />
   <action id="EmmetNextEditPoint" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
   <action id="Macro.Complete and take new line">
     <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
@@ -21,6 +26,9 @@
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="SavaAs" />
   <action id="SwitchApply">
