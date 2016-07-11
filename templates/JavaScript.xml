@@ -5,8 +5,6 @@
   <template name="aon" value="console.log(&quot;AON::$END$&quot;);" description="AON Console" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
-      <option name="JS_EXPRESSION" value="true" />
-      <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
