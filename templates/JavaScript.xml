@@ -1,7 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="logInsert" value="console.log(&quot;AON::&quot;);" description="Inserts a log statement into the code" toReformat="false" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="logInsert" value="console.log(&quot;AON::&quot;);" description="Inserts a log statement into the code" toReformat="false" toShortenFQNames="true" />
   <template name="aon" value="console.log(&quot;AON::$END$&quot;);" description="AON Console" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />

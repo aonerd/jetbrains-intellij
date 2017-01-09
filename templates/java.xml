@@ -2,6 +2,5 @@
   <template name="jpf" value="@Column(name = &quot;$NAME$&quot;)&#10;private $TYPE$ $NAME$;" description="JPA Field" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>
