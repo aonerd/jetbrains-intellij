@@ -1,26 +1,4 @@
 <application>
-  <component name="ActionMacroManager">
-    <macro name="Reformat and Save">
-      <action id="ReformatCode" />
-      <action id="SaveAll" />
-    </macro>
-    <macro name="Reformat, optimise and save">
-      <action id="OptimizeImports" />
-      <action id="Macro.Reformat and Save" />
-      <action id="ReformatCode" />
-      <action id="SaveAll" />
-    </macro>
-    <macro name="Reformat, Rearrange, Optimise Imports and Save">
-      <action id="ReformatCode" />
-      <action id="RearrangeCode" />
-      <action id="OptimizeImports" />
-      <action id="SaveAll" />
-    </macro>
-    <macro name="Complete and take new line">
-      <action id="EditorCompleteStatement" />
-      <action id="EditorStartNewLine" />
-    </macro>
-  </component>
   <component name="com.intellij.ide.actionMacro.ActionMacroManager">
     <macro name="Save-reformat-rearrange-opt_imports">
       <action id="OptimizeImports" />
