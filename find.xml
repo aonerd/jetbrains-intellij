@@ -3,9 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html,*.ts" />
     <recentFileMasks>
       <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.js</mask>
@@ -17,6 +17,16 @@
       <mask>*.sql</mask>
       <mask>*.gradle</mask>
       <mask>*.java</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
+      <mask>*.html,</mask>
+      <mask>*.html,*</mask>
+      <mask>*.html,*.</mask>
+      <mask>*.html,*.ts</mask>
     </recentFileMasks>
   </component>
 </application>
